@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kanis/OneDrive/Desktop/chksum/csa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module csa
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kanis/OneDrive/Desktop/chksum/fa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fa
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kanis/OneDrive/Desktop/chksum/ha.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ha
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Aheesa_Internship/parameterized_csa/parameterized_csa.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

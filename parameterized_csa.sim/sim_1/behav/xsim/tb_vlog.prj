@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/Users/kanis/OneDrive/Desktop/chksum/csa.v" \
+"C:/Users/kanis/OneDrive/Desktop/chksum/fa.v" \
+"C:/Users/kanis/OneDrive/Desktop/chksum/ha.v" \
+"../../../../parameterized_csa.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
